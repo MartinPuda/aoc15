@@ -1,32 +1,9 @@
-# aoc15
+### Advent of Code 2015 in Clojure
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar aoc15-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+Days: 1 - 3
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
