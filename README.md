@@ -1,13 +1,23 @@
-### Advent of Code 2015 in Clojure
+# aoc15
 
-Days: 1 - 3
+Advent of Code 2015 in Clojure.
 
-### Bugs
+- Day 01 ⭐⭐
 
+- Day 02 ⭐⭐
+
+- Day 03 ⭐⭐
+
+## Todo
+
+
+## Installation
+
+Download from http://example.com/FIXME.
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
